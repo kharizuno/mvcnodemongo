@@ -1,7 +1,7 @@
 {
-  "name": "kumparan",
+  "name": "mvcnodemongo",
   "version": "1.0.0",
-  "description": "Kumparan Test",
+  "description": "Build RestAPI MVC with NodeJS, Express, MongoDB",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development node index.js",
