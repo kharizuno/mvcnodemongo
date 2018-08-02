@@ -1,4 +1,4 @@
-# Build RestAPI MVC with NodeJS, Express, MongoDB
+# Build Simple RestAPI MVC
 NodeJS, Babel, Express, Parser, Mongoose
 
 ## Installation
